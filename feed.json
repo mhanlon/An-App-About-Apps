@@ -11,7 +11,7 @@
 "overviewSubtitle": "A one stop shop to get started building your own apps",
 "detailSubtitle": "Get started building your own apps",
 "description": "An App About Apps is about moving from developing ideas for needed apps to sketching and describing those ideas and creating app prototypes. If you wish, you can also work on learning to code in Swift, so you can eventually publish a real app on the App Store. Turn your visions and ideas into reality!",
-"contentIdentifier": "com.github.appsbyralo.An-App-About-Apps",
+"contentIdentifier": "https://github.com/Appsbyralo/An-App-About-Apps.git",
 "contentVersion": "1.0",
 "url": "https://github.com/appsbyralo/An-App-About-Apps/blob/main/AAAA.swiftpm.zip",
 "publishedDate": "2024-08-18T12:00:00+00:00",
