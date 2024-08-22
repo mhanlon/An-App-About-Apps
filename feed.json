@@ -1,32 +1,32 @@
 {
-"title": "An App About Apps",
-"subtitle": "A Collection of Swift Lessons",
-"publisherName": "appsbyralo",
-"feedIdentifier": "com.github.appsbyralo",
-"contactURL": "mailto:appsbyralo@gmail.com",
-"formatVersion": "1.0",
-"documents": [
-{
-"title": "An App About Apps - The main one",
-"overviewSubtitle": "A one stop shop to get started building your own apps",
-"detailSubtitle": "Get started building your own apps",
-"description": "An App About Apps is about moving from developing ideas for needed apps to sketching and describing those ideas and creating app prototypes. If you wish, you can also work on learning to code in Swift, so you can eventually publish a real app on the App Store. Turn your visions and ideas into reality!",
-"contentIdentifier": "com.github.Appsbyralo.An-App-About-Apps.git",
-"contentVersion": "1.0",
-"url": "https://github.com/appsbyralo/An-App-About-Apps/blob/main/AAAA.swiftpm.zip",
-"publishedDate": "2024-08-18T12:00:00+00:00",
-"lastUpdatedDate": "2024-08-18T12:00:00+00:00",
-"thumbnailURL": "https://github.com/Appsbyralo/An-App-About-Apps/blob/main/Thumbnail.png",
-"bannerImageURL": "https://github.com/Appsbyralo/An-App-About-Apps/blob/main/Banner.png",
-"additionalInformation": [
-{
-"name": "Languages",
-"value": "English"
-}
-],
-"previewImageURLs": [
-"https://github.com/Appsbyralo/An-App-About-Apps/blob/main/Preview.png"
-]
-}
-]
+	"title": "An App About Apps",
+	"subtitle": "A Collection of Swift Lessons",
+	"publisherName": "appsbyralo",
+	"feedIdentifier": "com.github.appsbyralo",
+	"contactURL": "mailto:appsbyralo@gmail.com",
+	"formatVersion": "1.0",
+	"documents": [
+		{
+			"title": "An App About Apps - The main one",
+			"overviewSubtitle": "A one stop shop to get started building your own apps",
+			"detailSubtitle": "Get started building your own apps",
+			"description": "An App About Apps is about moving from developing ideas for needed apps to sketching and describing those ideas and creating app prototypes. If you wish, you can also work on learning to code in Swift, so you can eventually publish a real app on the App Store. Turn your visions and ideas into reality!",
+			"contentIdentifier": "com.github.appsbyralo.An-App-About-Apps",
+			"contentVersion": "1.0",
+			"url": "https://appsbyralo.github.io/An-App-About-Apps/AAAA.swiftpm.zip",
+			"publishedDate": "2024-08-18T12:00:00+00:00",
+			"lastUpdatedDate": "2024-08-18T12:00:00+00:00",
+			"thumbnailURL": "https://appsbyralo.github.io/An-App-About-Apps/Thumbnail.png",
+			"bannerImageURL": "https://appsbyralo.github.io/An-App-About-Apps/Banner.png",
+			"additionalInformation": [
+				{
+					"name": "Languages",
+					"value": "English"
+				}
+			],
+			"previewImageURLs": [
+				"https://github.com/Appsbyralo/An-App-About-Apps/blob/main/Preview.png"
+			]
+		}
+	]
 }
