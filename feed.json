@@ -2,7 +2,7 @@
 "title": "An App About Apps",
 "subtitle": "A Collection of Swift Lessons",
 "publisherName": "appsbyralo",
-"feedIdentifier": "com.appsbyralo.playgrounds",
+"feedIdentifier": "com.appsbyralomy.playgrounds",
 "contactURL": "mailto:appsbyralo@gmail.com",
 "formatVersion": "1.0",
 "documents": [
@@ -16,8 +16,8 @@
 "url": "https://github.com/Appsbyralo/An-App-About-Apps/blob/main/AAAA.swiftpm.zip",
 "publishedDate": "2024-08-18T12:00:00+00:00",
 "lastUpdatedDate": "2024-08-18T12:00:00+00:00",
-"thumbnailURL": "https://www.icloud.com/iclouddrive/0aeHSz-Hw95XSAsMs6lXezbrg#Thumbnail",
-"bannerImageURL": "https://www.icloud.com/iclouddrive/0e3_SSP68_sE-XLfarl5SE5og#Banner",
+"thumbnailURL": "https://github.com/Appsbyralo/An-App-About-Apps/blob/main/Thumbnail.png",
+"bannerImageURL": "https://github.com/Appsbyralo/An-App-About-Apps/blob/main/Banner.png",
 "additionalInformation": [
 {
 "name": "Languages",
@@ -25,7 +25,7 @@
 }
 ],
 "previewImageURLs": [
-"https://www.icloud.com/iclouddrive/066VgpYXkRRB-htKLLfzsh9dw#Preview"
+"https://github.com/Appsbyralo/An-App-About-Apps/blob/main/Preview.png"
 ]
 }
 ]
