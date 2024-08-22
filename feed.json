@@ -2,7 +2,7 @@
 "title": "An App About Apps",
 "subtitle": "A Collection of Swift Lessons",
 "publisherName": "appsbyralo",
-"feedIdentifier": "com.appsbyralo.playgrounds",
+"feedIdentifier": "com.github.appsbyralo",
 "contactURL": "mailto:appsbyralo@gmail.com",
 "formatVersion": "1.0",
 "documents": [
@@ -13,7 +13,7 @@
 "description": "An App About Apps is about moving from developing ideas for needed apps to sketching and describing those ideas and creating app prototypes. If you wish, you can also work on learning to code in Swift, so you can eventually publish a real app on the App Store. Turn your visions and ideas into reality!",
 "contentIdentifier": "appsbyralo.playgrounds",
 "contentVersion": "1.0",
-"url": "https://github.com/Appsbyralo/An-App-About-Apps/blob/main/AAAA.swiftpm.zip",
+"url": "https://github.com/appsbyralo/An-App-About-Apps/blob/main/AAAA.swiftpm.zip",
 "publishedDate": "2024-08-18T12:00:00+00:00",
 "lastUpdatedDate": "2024-08-18T12:00:00+00:00",
 "thumbnailURL": "https://github.com/Appsbyralo/An-App-About-Apps/blob/main/Thumbnail.png",
